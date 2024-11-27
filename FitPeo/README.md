@@ -1,4 +1,4 @@
-# Automated Testing for E-commerce Website
+# Automated Testing for FitPeo
 
 ## Introduction
 
