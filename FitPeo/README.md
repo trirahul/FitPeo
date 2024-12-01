@@ -14,7 +14,7 @@ This repository contains an automated testing strategy for the FitPeo website (h
 
 ## Steps to Run:
 0. Download the Zip file and extract in a convenient location
-1. Opem Eclispe editor
+1. Open Eclipse editor
 2. Give a Workspace Name (e.g., 'New Worskpace1') if asked to create a new workspace
 3. Click on File
 4. Click on 'Import Projects From File System'
